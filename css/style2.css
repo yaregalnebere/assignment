@@ -1,0 +1,64 @@
+.head{
+    color: aliceblue;
+    text-align: center;
+background-color: limegreen;
+
+}
+.btn{
+    color: azure;
+    text-align: center;
+}
+.dwn{
+    bottom: 0px;
+    width: 100%;
+    position: absolute;
+    background-color: darkviolet;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: small;
+    font-weight: bold;
+}
+.signup{
+    border: 2px solid green;
+    text-align: center;
+    background: local;
+   border-right-width: 25%;
+   border-left-width: 25%;
+}
+
+li{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+   padding: 20px;
+   padding-right: 15px;
+}
+.nav{
+    text-align: center;
+    background-color: cyan;
+    font-weight: bold;
+}
+.contact{
+  text-align: center;
+  font-weight: bold;
+  color: crimson;
+}
+.custemer{
+  text-align: center;
+  font-weight: bold;
+  color: darkmagenta;
+
+}
+.product{
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  color: rgb(0, 255, 115);
+
+}
+.location{
+  text-align: center;
+  font-size: large;
+  color: rgb(255, 0, 0);
+  font-size: 20px;
+}
